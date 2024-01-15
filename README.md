@@ -2,7 +2,7 @@
 <h3 align="center">Iam a Python programmer</h3>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahadhasan666&label=Profile%20views&color=0e75b6&style=flat" alt="rahadhasan666" /> </p>
-
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <p align="left"> <a href="https://twitter.com/rjrafsan13" target="blank"><img src="https://img.shields.io/twitter/follow/rjrafsan13?logo=twitter&style=for-the-badge" alt="rjrafsan13" /></a> </p>
 
 - 🔭 I’m currently working on **Python Programming**
@@ -34,7 +34,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rahadhasan666&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 <div> <a href="https://github.com/rahadhasan666" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Stars</h3>
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rahadhasan666&show_icons=true&locale=en&theme=" alt="rahadhasan666" /></p>
