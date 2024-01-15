@@ -34,8 +34,26 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rahadhasan666&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rahadhasan666&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<div> <a href="https://github.com/rahadhasan666" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Stars</h3>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rahadhasan666&show_icons=true&locale=en&theme=" alt="rahadhasan666" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rahadhasan666&theme=" alt="rahadhasan666" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/rahadhasan666">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahadhasan666&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahadhasan666&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahadhasan666&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahadhasan666&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahadhasan666&theme=2077" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rahadhasan666&theme=react"/>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
