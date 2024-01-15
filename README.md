@@ -1,4 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<img align="center" src="https://github.com/rahadhasan666/rahadhasan666/blob/main/Blue%20and%20Orange%20Modern%20Education%20YouTube%20Channel%20Art.png"  />
+
 <h1 align="center">Hi 👋, I'm Rahad Hasan</h1>
 <h3 align="center">Iam a Python programmer</h3>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
